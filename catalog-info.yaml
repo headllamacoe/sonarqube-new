@@ -6,7 +6,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: rfp-vivo-2023
     github.com/project-slug: headllamacoe/sonarqube-new
-    sonarqube.org/project-key: headllamacoesonarqube-new
+    sonarqube.org/project-key: sonar-project-js
   tags:
       - frontend
       - react
